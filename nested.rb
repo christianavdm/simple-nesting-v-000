@@ -86,7 +86,7 @@ def adding_matz
        # }
      }
 
-programmer_hash[:yukihiro_matsumoto] = "this works"
+programmer_hash[:yukihiro_matsumoto] = "this"
     
 end
 
