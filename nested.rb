@@ -16,7 +16,7 @@ def hopper
         }
      }
   
-  programmer_hash[:hopper] = 
+  programmer_hash[:hopper] = programmer_hash.delete(:grace_hopper)
 
 end
 
